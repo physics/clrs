@@ -160,7 +160,7 @@ class App extends Component {
 
   componentDidMount(){
     document.body.style.background = "#222";
-    document.title = "Colorize";
+    document.title = "clrs";
   }
 
   render() {
