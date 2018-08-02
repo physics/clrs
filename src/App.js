@@ -167,7 +167,7 @@ class App extends Component {
     return (
       <body>
       <div className="App">
-        <p className="colorize">Colorize</p>
+        <p className="colorize">clrs</p>
         <div><Rainbow /></div>
         <br/>
         <br/>
