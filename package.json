@@ -1,6 +1,6 @@
 {
-  "homepage": "http://colorscript.github.io/colorscript",
-  "name": "colorize",
+  "homepage": "http://swingsets.github.io/clrs",
+  "name": "clrs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
