@@ -1,5 +1,5 @@
 <p align="center"><img width=12.5% src="https://i.imgur.com/juYfXhv.png"></p>
-<p align="center"><img width=60% src="https://i.imgur.com/xI8jC5c.png"></p>
+<p align="center"><img width=60% src="https://i.imgur.com/ZzUShgS.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Node](https://img.shields.io/npm/v/npm.svg)
