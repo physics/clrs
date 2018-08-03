@@ -307,7 +307,7 @@ class CalculatorPage extends Component {
   }
 
   equals(){
-    document.getElementById("calcInput").value = eval(document.getElementById("calcInput").value)
+    //document.getElementById("calcInput").value = eval(document.getElementById("calcInput").value)
   }
 
   purge(){
